@@ -11,7 +11,7 @@ They demonstrate my skills in **Excel dashboards, risk management, and project r
 ### 1. Project Tracker (Excel)
 - Gantt-style task tracker with owners, dates, % complete, and status.  
 - Summarizes project progress using Excel formulas and mock data.  
-- [Open here](.Project_Tracker.xlsx)  
+- [Open here](Project-Management-Projects/blob/main/project_tracker.xlsx)  
 
 ### 2. Risk Register (Word)
 - Professional risk log template for PMO use.  
