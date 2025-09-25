@@ -1,2 +1,2 @@
 # Project-Management-Projects
-I have done some projects to enhance my sk9ills as project manager.
+I have done some projects to enhance my skills as project manager, showing ho0w i uses MS Office.
